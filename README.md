@@ -6,3 +6,6 @@ DIDA dataset is collected from the Swedish historical handwritten document image
 #### Reference:
 
 * [1]: Huseyin Kusetogullari, Amir Yavariabdi, Johan Hall, Niklas Lavesson, "DIGITNET: A Deep Handwritten Digit Detection and Recognition Method Using a New Historical Handwritten Digit Dataset", Big Data Research, 2020, DOI: ![10.1016/j.bdr.2020.100182](https://doi.org/10.1016/j.bdr.2020.100182)
+
+http://github.com - automatic! [GitHub](http://github.com)
+
