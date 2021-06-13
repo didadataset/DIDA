@@ -14,7 +14,7 @@ The DIDA single digits dataset has 250,000 handwritten digit samples with 10 dif
 
 * [single digit dataset 10K](https://github.com/didadataset/dida)
 * [single digit dataset 70K](https://github.com/didadataset/dida)
-* [single digit dataset 230K](https://github.com/didadataset/dida) [This dataset will be updated soon and include 250k digit images]
+* [single digit dataset 230K](https://github.com/didadataset/dida) [This dataset will be updated soon and include 250k single digit images]
 * [string digit dataset](https://github.com/didadataset/dida) [This dataset will be available within 1 month]
 
 ## If you use any of these datasets, please cite:
