@@ -18,5 +18,14 @@ This dataset is in contrast with the existing publicly available handwritten dig
 #### Reference:
 
 * [1]: Huseyin Kusetogullari, Amir Yavariabdi, Johan Hall, Niklas Lavesson, "DIGITNET: A Deep Handwritten Digit Detection and Recognition Method Using a New Historical Handwritten Digit Dataset", Big Data Research, 2020, DOI: [10.1016/j.bdr.2020.100182](https://doi.org/10.1016/j.bdr.2020.100182)
+* [2]: Huseyin Kusetogullari, Amir Yavariabdi, Johan Hall, Niklas Lavesson, DIDA: A dataset of handwritten digit images in the context of HCR, June. 2021. Accessed on: June. 13, 2021. [Online]. Available: https://github.com/didadataset/DIDA/
+
+#### BibTeX:
+* @article{Kusetogullari2020DIDA, 
+           title={DIGITNET: A Deep Handwritten Digit Detection and Recognition Method Using a New Historical Handwritten Digit Dataset}, 
+           author={Huseyin Kusetogullari, Amir Yavariabdi, Johan Hall, Niklas Lavesson}, 
+           journal={Big Data Research}, 
+           year={2020}
+           }
 
 
