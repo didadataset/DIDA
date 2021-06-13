@@ -1,7 +1,5 @@
 ![Swedish historical handwritten document](https://ars.els-cdn.com/content/image/1-s2.0-S2214579620300502-gr001.jpg)
 
-This is a new image-based handwritten historical digit dataset named ARDIS (Arkiv Digital Sweden). The images in ARDIS dataset are extracted from 15.000 Swedish church records which were written by different priests with various handwriting styles in the nineteenth and twentieth centuries. The constructed dataset consists of three single digit datasets and one digit strings dataset. The digit strings dataset includes 10.000 samples in Red-Green-Blue (RGB) color space, whereas, the other datasets contain 7.600 single digit images in different color spaces. Figure 1 illustrates handwritten digit images from different datasets in ARDIS
-
 ## DIDA: The largest historical handwritten digit dataset
 DIDA is a new image-based historical handwritten digit dataset and collected from the Swedish historical handwritten document images between the year 1800 and 1940. It is the largest historical handwritten digit dataset which is introduced to the Optical Character Recognition (OCR) community to help the researchers to test their optical handwritten character recognition methods. To generate DIDA, 250,000 single digits and 200,000 multi-digits are cropped from 75,000 different document images. The dataset has multiple unique characteristics as explained below:
 
