@@ -29,6 +29,7 @@ The DIDA single digits dataset has 250,000 handwritten digit samples with 10 dif
            year={2020}
            }
 * @misc{DIDA2020,
+       author = {Huseyin Kusetogullari, Amir Yavariabdi, Johan Hall, Niklas Lavesson}
        title = {DIDA: A dataset of handwritten digit images in the context of HCR},
        howpublished = {\url{https://github.com/didadataset/DIDA/}},
        note = {Accessed: 2021-06-13}
