@@ -1,12 +1,14 @@
 ![Swedish historical handwritten document](https://ars.els-cdn.com/content/image/1-s2.0-S2214579620300502-gr001.jpg)
 
+This is a new image-based handwritten historical digit dataset named ARDIS (Arkiv Digital Sweden). The images in ARDIS dataset are extracted from 15.000 Swedish church records which were written by different priests with various handwriting styles in the nineteenth and twentieth centuries. The constructed dataset consists of three single digit datasets and one digit strings dataset. The digit strings dataset includes 10.000 samples in Red-Green-Blue (RGB) color space, whereas, the other datasets contain 7.600 single digit images in different color spaces. Figure 1 illustrates handwritten digit images from different datasets in ARDIS
 
 ## DIDA: The largest historical handwritten digit dataset
-DIDA dataset is collected from the Swedish historical handwritten document images between the year 1800 and 1940. It is the largest historical handwritten digit dataset which is introduced to the Optical character recognition (OCR) community to help the researchers to test their optical handwritten character recognition methods. To generate DIDA, 250,000 single digits and 200,000 multi-digits are cropped from different document images. At this stage, we are going to share 250,000 single digit sub-dataset. 
+DIDA is a new image-based historical handwritten digit dataset and collected from the Swedish historical handwritten document images between the year 1800 and 1940. It is the largest historical handwritten digit dataset which is introduced to the Optical Character Recognition (OCR) community to help the researchers to test their optical handwritten character recognition methods. To generate DIDA, 250,000 single digits and 200,000 multi-digits are cropped from 75,000 different document images. The dataset has multiple unique characteristics as explained below:
 
-The DIDA single digits dataset has 250,000 handwritten digit samples with 10 different classes from 0 to 9, and each class contains 20,000-25,000 single digit images. To the best of our knowledge, this dataset is the largest one to present historical handwritten single digit samples in RGB color space with the original sizes and appearances (a). 
+* Degradation: The poor quality of the used papers and inks in the nineteenth centuries, age of documents, and distortions influence digits in DIDA dataset. These issues simply result in multiple degradation and artifacts. For instance age of documents causes deterioration of digits (i.e.~faint). Moreover, other artefacts in the document images are background variation, show-through, bleed-through, and smear. Consequently, the CARDIS dataset is exposed to many different inter- and intra-class variations.
+* Handwriting styles: In the recorded documents, the digits were written in copperplate, cursive, and Gothic styles by different priests using various types of ink, nib, and dip pen, which result in different appearances. Moreover, in the documents the same class digits appeare with different sizes thus, the shapes can be diverse. Hence, in DIDA dataset, the digits appear in various writing styles, sizes, directions, widths, and arrangements. These variations in handwriting patterns due to individual writing style and materials used to write the texts generate endless inter-class variations.
 
-This dataset is in contrast with the existing publicly available handwritten digit datasets (e.g. MNIST (b)), where the digit images are size-normalized, denoised and cleaned.
+The DIDA single digits dataset has 250,000 handwritten digit samples with 10 different classes from 0 to 9, and each class contains 20,000-25,000 single digit images. To the best of our knowledge, this dataset is the largest one to present historical handwritten single digit samples in RGB color space with the original sizes and appearances (a). This dataset is in contrast with the existing publicly available handwritten digit datasets (e.g. MNIST (b)), where the digit images are size-normalized, denoised and cleaned.
 
 ![DIDA vs MNIST](https://ars.els-cdn.com/content/image/1-s2.0-S2214579620300502-gr004.jpg)
 
@@ -15,6 +17,7 @@ This dataset is in contrast with the existing publicly available handwritten dig
 * [single digit dataset 230K](https://github.com/didadataset/dida) [This dataset will be updated soon and include 250k digit images]
 * [string digit dataset](https://github.com/didadataset/dida) [This dataset will be available within 1 month]
 
+## If you use any of these datasets, please cite:
 #### Reference:
 
 * [1]: Huseyin Kusetogullari, Amir Yavariabdi, Johan Hall, Niklas Lavesson, "DIGITNET: A Deep Handwritten Digit Detection and Recognition Method Using a New Historical Handwritten Digit Dataset", Big Data Research, 2020, DOI: [10.1016/j.bdr.2020.100182](https://doi.org/10.1016/j.bdr.2020.100182)
