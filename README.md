@@ -1,5 +1,3 @@
-# DIDA Release Date: 28/05/2021
-
 ![Swedish historical handwritten document](https://ars.els-cdn.com/content/image/1-s2.0-S2214579620300502-gr001.jpg)
 
 
@@ -12,8 +10,10 @@ This dataset is in contrast with the existing publicly available handwritten dig
 
 ![DIDA vs MNIST](https://ars.els-cdn.com/content/image/1-s2.0-S2214579620300502-gr004.jpg)
 
-* [single digit dataset](https://github.com/didadataset/dida)
-* [string digit dataset](https://github.com/didadataset/dida)
+* [single digit dataset 10K](https://github.com/didadataset/dida)
+* [single digit dataset 70K](https://github.com/didadataset/dida)
+* [single digit dataset 230K](https://github.com/didadataset/dida) [This dataset will be updated soon and include 250k digit images]
+* [string digit dataset](https://github.com/didadataset/dida) [This dataset will be available within 1 month]
 
 #### Reference:
 
