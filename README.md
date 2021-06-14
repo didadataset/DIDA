@@ -1,6 +1,6 @@
 ![Swedish historical handwritten document](https://ars.els-cdn.com/content/image/1-s2.0-S2214579620300502-gr001.jpg)
 
-## DIDA: The largest historical handwritten digit dataset
+## DIDA: The largest historical handwritten digit dataset with 250k digits
 DIDA is a new image-based historical handwritten digit dataset and collected from the Swedish historical handwritten document images between the year 1800 and 1940. It is the largest historical handwritten digit dataset which is introduced to the Optical Character Recognition (OCR) community to help the researchers to test their optical handwritten character recognition methods. To generate DIDA, 250,000 single digits and 200,000 multi-digits are cropped from 75,000 different document images. The dataset has multiple unique characteristics as explained below:
 
 * Degradation: The poor quality of the used papers and inks in the nineteenth centuries, age of documents, and distortions influence digits in DIDA dataset. These issues simply result in multiple degradation and artifacts. For instance age of documents causes deterioration of digits (i.e.~faint). Moreover, other artefacts in the document images are background variation, show-through, bleed-through, and smear. Consequently, the CARDIS dataset is exposed to many different inter- and intra-class variations.
