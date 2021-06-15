@@ -22,10 +22,10 @@ The DIDA single digits dataset has 250,000 handwritten digit samples with 10 dif
 * Huseyin Kusetogullari, Amir Yavariabdi, Johan Hall, Niklas Lavesson, DIDA: The largest historical handwritten digit dataset with 250k digits, June 2021. Accessed on: June 13,        2021. Available: [https://github.com/didadataset/DIDA/](https://github.com/didadataset/DIDA/). 
 
 #### BibTeX:
-* @article{Kusetogullari2020DIDA, 
-           title={DIGITNET: A Deep Handwritten Digit Detection and Recognition Method Using a New Historical Handwritten Digit Dataset},   
+* @article{Kusetogullari2020DIDA,  
+           title={DIGITNET: A Deep Handwritten Digit Detection and Recognition Method Using a New Historical Handwritten Digit Dataset},  
            author={Huseyin Kusetogullari, Amir Yavariabdi, Johan Hall, Niklas Lavesson},  
-           journal={Big Data Research},   
+           journal={Big Data Research},  
            year={2020}  
            }
 * @misc{DIDA2020,  
