@@ -35,4 +35,4 @@ The DIDA single digits dataset has 250,000 handwritten digit samples with 10 dif
        note = {Accessed: 2021-06-13}  
        }
 #### News:
-* This work was featured as the project of the month in [Computer Vision News]{https://www.rsipvision.com/ComputerVisionNews-2021August/28/}.
+* This work was featured as the project of the month in [Computer Vision News](https://www.rsipvision.com/ComputerVisionNews-2021August/28/).
