@@ -14,8 +14,9 @@ The DIDA single digits dataset has 250,000 handwritten digit samples with 10 dif
 * [single digit dataset 70K](https://drive.google.com/file/d/1WOlgL8itWZ0bTelgQcORzltnaFR2vkQy/view?usp=sharing)
 * [single digit dataset 250K](https://drive.google.com/file/d/1J-NZFBdxqUQuY2mu3aBexhfiY6WUFlCn/view?ts=60f97e6c) 
 * [string digit dataset](https://github.com/didadataset/dida) [This dataset will be available within 1 month]
+* [Alternative download link: kaggle](https://www.kaggle.com/ayavariabdi/didadataset)
 
-## If you use any of these datasets, please cite:
+## If you use any of these datasets, please cite:)
 #### Reference:
 
 * Huseyin Kusetogullari, Amir Yavariabdi, Johan Hall, Niklas Lavesson, "DIGITNET: A Deep Handwritten Digit Detection and Recognition Method Using a New Historical                  Handwritten Digit Dataset", Big Data Research, 2020, DOI: [10.1016/j.bdr.2020.100182](https://doi.org/10.1016/j.bdr.2020.100182).
