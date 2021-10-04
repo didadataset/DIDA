@@ -13,7 +13,7 @@ The DIDA single digits dataset has 250,000 handwritten digit samples with 10 dif
 * [single digit dataset 10K](https://drive.google.com/file/d/1d-U-lxIoS5QuPEYPvHA2-Bm4pULsTb06/view?usp=sharing)
 * [single digit dataset 70K](https://drive.google.com/file/d/1WOlgL8itWZ0bTelgQcORzltnaFR2vkQy/view?usp=sharing)
 * [single digit dataset 250K](https://drive.google.com/file/d/1J-NZFBdxqUQuY2mu3aBexhfiY6WUFlCn/view?ts=60f97e6c) 
-* [string digit dataset](https://github.com/didadataset/dida) [This dataset will be available within 1 month]
+* [100k string digit dataset](https://drive.google.com/file/d/1QWfquQQlKonx1WEG9G-Cx-A8j3N91QYY/view?ts=6150be13)
 * [Alternative download link: kaggle](https://www.kaggle.com/ayavariabdi/didadataset)
 
 ## If you use any of these datasets, please cite:)
