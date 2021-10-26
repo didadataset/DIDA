@@ -17,7 +17,7 @@ The DIDA single digits dataset has 250,000 handwritten digit samples with 10 dif
 * [58k string digit dataset without labels](https://www.kaggle.com/ayavariabdi/didadataset?select=58k+Digit_String_without_label)
 * [Alternative download link: kaggle](https://www.kaggle.com/ayavariabdi/didadataset)
 
-# 12k string digit and 58k string digit data-set are generated from different document images. 
+ 12k string digit and 58k string digit data-set are generated from different document images. 
 
 ## If you use any of these datasets, please cite:
 #### Reference:
