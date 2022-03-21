@@ -20,6 +20,9 @@ The DIDA single digits dataset has 250,000 handwritten digit samples with 10 dif
 
  12k, 30k, and 58k digit string data-set are generated from different document images. 
 
+## DIGITNET YOLO Model and Weights
+[DIGITNET and Weights](https://www.kaggle.com/datasets/ayavariabdi/didadataset)
+
 ## If you use any of these datasets, please cite:
 #### Reference:
 
