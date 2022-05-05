@@ -23,6 +23,10 @@ The DIDA single digits dataset has 250,000 handwritten digit samples with 10 dif
 ## DIGITNET Model and Weights
 [DIGITNET and Weights](https://www.kaggle.com/datasets/ayavariabdi/didadataset)
 
+## Characteres and Words dataset:
+[Characteres and Words Dataset](https://cardisdataset.github.io/CARDIS/)
+
+
 ## If you use any of these datasets, please cite:
 #### Reference:
 
